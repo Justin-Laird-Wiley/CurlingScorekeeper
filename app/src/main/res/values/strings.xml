@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CurlingScoreboard</string>
+
+    <string name="curling_headline">Curling Fever \- Catch It!</string>
+
+    <string name="content_description">Curling Stones by Joseph C. Justice Jr.</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score">Score</string>
+
+
+    <string name="score_1">1</string>
+    <string name="score_2">2</string>
+    <string name="score_3">3</string>
+    <string name="score_4">4</string>
+    <string name="score_5">5</string>
+    <string name="score_6">6</string>
+    <string name="score_7">7</string>
+    <string name="score_8">8</string>
+    <string name="score_9">9</string>
+    <string name="score_10">10</string>
+    <string name="score_11">11</string>
+    <string name="score_12">12</string>
+    <string name="score_13">13</string>
+    <string name="score_14">14</string>
+    <string name="score_15">15</string>
+
+    <!-- Button strings -->
+    <string name="minus_button">\-</string>
+    <string name="plus_button">+</string>
+    <string name="team_a_score_button">A</string>
+    <string name="team_b_score_button">B</string>
+    <string name="extra_end">Extra End</string>
+    <string name="reset">Reset</string>
+
+
+    <string name="current_end">Current End</string>
+    <string name="initial_end">1</string>
+    <string name="points_in_end">Points in End</string>
+    <string name="initial_end_score">0</string>
+    <string name="winner_of_end">Winner of End</string>
+    <string name="zero_points">0 Pts.</string>
+
+    <string name="blank_ends">Blank Ends</string>
+    <string name="dashes">\-\-\-</string>
+
+</resources>
